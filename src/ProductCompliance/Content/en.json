@@ -1,0 +1,86 @@
+{
+    "productCompliance": {
+      "title": "PRODUCT/SERVICE COMPLIANCE",
+      "platform": "Temacina.com",
+      "date": "Thursday July 11, 2024",
+      "pr_language":"Main language of the product/service compliance",
+      "language": "The French Language",
+      "welcome": "Welcome to Temacina.com",
+      "compliance_and_requirements": {
+        "title": "Compliance and Requirements",
+        "description": "With this in mind, the platform has put in place a meticulous approach to ensure that all available products/services meet the most stringent security and compliance standards.",
+        "evaluation": "First , Temacina.com conducts a meticulous assessment of the compliance of products/services before making them available on its platform. This assessment is carried out through the Seller Backoffice, which provides all the necessary sections for sellers to submit their products/services in a compliant manner.",
+        "backoffice": "In the Seller Backoffice, each section is designed to collect specific information about products/services, including technical details, compliance certificates and safety test results. Sellers are required to provide complete and accurate data in each section to ensure that the products/services offered are transparent and compliant, making it easier for buyers to access safe products/services .",
+        "details": "Trade between Algeria and global markets involves cross-border transactions which must comply with strict product/service conformity standards. This compliance is essential to ensure the safety of products/services and the protection of buyers' rights and interests. These compliance standards are defined by a set of laws and regulations both in Algeria and in the countries of origin of the products/services or services, as well as by the requirements of the relevant regulatory authorities."
+      },
+      "non_compliance_consequences": {
+        "title": "Consequences of Non-Compliance",
+        "description": "In the event of non-compliance, the consequences can be serious for the companies involved. They range from the seizure of non-compliant products/services to their destruction, often at the company's expense, to the imposition of financial fines, the blacklisting of non-compliant companies and the shared responsibility among the involved sellers. Compliance is therefore a major concern for everyone involved in trade.",
+        "text":"Non-compliant products/services imported into Algeria or exported abroad may result in :",
+        "sanctions": [
+          "Seizure of the non-compliant product.",
+          "Destruction of the product at the company's expense.",
+          "The imposition of a fine on the company concerned.",
+          "Listing the company on a blacklist.",
+          "The salespeople involved have joint responsibilities."
+        ]
+      },
+      "communication_with_buyers": {
+        "title": "Communication with Buyers",
+        "description": "Sellers need to communicate effectively with buyers to understand customs clearance and product/service compliance requirements in Algeria or the destination region/country before initiating a transaction. They need to ensure that their products/services for sale meet all the product/service requirements of the target market, including ",
+        "requirements": [
+          "Labelling.",
+          "Certification.",
+          "Registration.",
+          "Qualification.",
+          "Product description.",
+          "Document for customs clearance.",
+          "Document for the bank .",
+          "Industry-specific market access qualifications.",
+          "Production, operating and export licences for the products/services concerned.",
+          "Document for logistics and delivery by sea, air and road."
+        ]
+      },
+      "platform_commitment": {
+        "title": "Temacina.com Commitment",
+        "description": "Temacina.com is committed to keeping its policies and rules constantly updated to reflect changes in relevant laws and regulations. These policies include specific enforcement measures regarding the publication of prohibited or controlled items, product/service compliance rules and seller invitations, as well as industry-specific market access requirements. This proactive approach aims to ensure transparency and compliance on the platform, reinforcing user confidence and ensuring a safe and satisfying shopping experience for all."
+      },
+      "compliance_responsibilities": {
+        "title": "Product/Service Compliance Responsibilities",
+        "participants": [
+          "Manufacturers",
+          "Negotiators",
+          "Traders",
+          "Importers",
+          "Exporters",
+          "Distributors",
+          "Wholesalers",
+          "Retailers"
+        ]
+      },"platform_product_compliance": {
+        "title": "Platform Product Compliance",
+        "description": "As a B2B platform, Temacina.com requires a high level of product and service compliance from its sellers. This compliance is a legal and regulatory requirement aimed at guaranteeing the quality, safety and legalityof the products and services offered on the platform. Sellers on Temacina.com must therefore pay attention to several aspects to ensure the compliance of their offers."
+      },
+      "seller_responsibilities_for_product_compliance": {
+        "title": "Seller Responsibilities for Product Compliance",
+        "description": "Firstly, sellers must ensure that the products or services they offer comply with the laws and regulations in force in their home country as well as in the countries where they will be sold, whether in Algeria or in their company's home country. This involves becoming familiar with the legal and regulatory requirements specific to each target market and ensuring that the products or services comply with these requirements in both directions."
+      },
+      "product_and_service_qualifications": {
+        "title": "Product and Service Qualifications",
+        "description": "In addition, sellers must also guarantee that their products or services have all the qualifications required for their intended use in both directions of trade. This may include quality certifications, specific licences, government authorisations or any other qualification necessary to guarantee the legality and safety of the products or services in the two countries concerned."
+      },
+      "documentation_requirements": {
+        "title": "Documentation Requirements",
+        "description": "Sellers must be able to provide Temacina.com with any relevant information or documentation if required, whether for export to Algeria or import from Algeria. This may include certification documents, inspection reports, technical data sheets or any other document required to prove the conformity of products or services in both directions of trade"
+      },
+      "platform_policies_and_regulations": {
+        "title": "Platform Policies and Regulations",
+        "description": "As a seller on Temacina.com, it is essential to understand and comply with the platform's policies and rules regarding the safety and compliance of products or services, in both directions of trade. This includes prohibiting the sale of counterfeit, dangerous or illegal products, as well as complying with consumer protection and privacy rules in both countries."
+      },
+      "consequences_of_non_compliance": {
+        "title": "Consequences of Non-Compliance",
+        "description": "Failure to comply with these policies and rules may result in severe penalties, such as removal of products or services from the platform, suspension of operations on Temacina.com and even legal or regulatory sanctions from the relevant authorities in the two countries concerned. Therefore, it is imperative for sellers to take compliance requirements seriously and strive to meet the highest standards of quality, safety and legality of their products."
+      }
+    }
+  }
+  

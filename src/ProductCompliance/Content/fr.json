@@ -1,0 +1,82 @@
+{
+    "productCompliance": {
+      "title": "CONFORMITÉ DE PRODUITS/SERVICES",
+      "platform": "Temacina.com",
+      "date": "Jeudi 11 Juillet 2024",
+      "pr_language":"Langue principale de la conformité de produits/services",
+      "language": "La Langue Française",
+      "welcome": "Bienvenue sur Temacina.com",
+      "compliance_and_requirements": {
+        "title": "Conformité Et Exigences",
+        "description": "Dans cet optique, la plateforme a mis en place une approche méticuleuse pour garantir que tous les produits/services disponibles répondent aux normes les plus strictes en matière de sécurité et de conformité.",
+        "evaluation": "Tout d'abord, Temacina.com réalise une évaluation minutieuse de la conformité des produits/services avant de les rendre accessibles sur sa plateforme.",
+        "backoffice": "Cette évaluation se déroule à travers le Backoffice vendeur, offrant ainsi toutes les rubriques adéquates pour que les vendeurs puissent soumettre leurs produits/services de manière conforme.",
+        "details": "Les échanges commerciaux entre l'Algérie et les marchés mondiaux impliquent des transactions transfrontalières qui doivent respecter des normes strictes de conformité des produits/services . Cette conformité est essentielle pour garantir la sécurité des produits/services ainsi que la protection des droitset des intérêts des acheteurs. Ces normes de conformité sont définies par un ensemble de lois et de règlements tant en Algérie que dans les pays d'origine des produits/services ou services, ainsi que par les exigences des autorités réglementaires compétentes."
+      },
+      "non_compliance_consequences": {
+        "title": " Les Consequences du non-conformité",
+        "description": "En cas de non-conformité, les conséquences peuvent être graves pour les entreprises impliquées. Elles vont de la saisie des produits/services non conformes à leur destruction, souvent aux frais de l'entreprise, en passant par l'imposition d'amendes financières, l'inscription sur une liste noire des entreprises non conformes et la responsabilité partagée des vendeurs impliqués. Ainsi, la conformité est une préoccupation majeure pour tous les acteurs impliqués dans les échanges commerciaux.",
+        "text": "Les produits/services importer vers l’Algérie ou exporter vers l’étranger non conformes peuvent entraîner :",
+        "sanctions": [
+          "La saisie du produit non conforme.",
+          "La destruction du produit à la charge de l’entreprise.",
+          "L'imposition d'une amende à l'entreprise concernée.",
+          "Listé l’entreprise dans une liste noire.",
+          "Les vendeurs concernés assumer des responsabilités conjointes."
+        ]
+      },
+      "communication_with_buyers": {
+        "title": "Communication avec les acheteurs",
+        "description": "Les vendeurs doivent communiquer efficacement avec les acheteurs afin de comprendre les exigences enmatière de dédouanement et de conformité des produits/services en Algérie ou la région/pays de destination avant d'entamer une transaction. Ils doivent s'assurer que leurs produits/services en vente répondent à toutes les exigences du marché cible en matière de produits/services , Parmi les nombreux aspects à prendre en compte, on retrouve notamment ",
+        "requirements": [
+          "Étiquetage.",
+          "Certification.",
+          "Enregistrement.",
+          "Qualification.",
+          "Description du produit.",
+          "Document pour le dédouanement.",
+          "Document pour la banque.",
+          "Qualifications d'accès au marché spécifiques à l'industrie.",
+          "Licences de production, d'exploitation et d'exportation des produits/services concernés.",
+          "Document pour la logistique et livraison Maritime, Aérien, Routier."
+        ]
+      },
+      "platform_commitment": {
+        "title": "Engagement de Temacina.com",
+        "description": "Temacina.com s'engage à tenir ses politiques et règles constamment à jour afin de refléter les évolutions des lois et règlements pertinents. Ces politiques incluent des mesures d'application précises concernant la publication d'articles interdits ou contrôlés, les règles de conformité des produits/services et les invitations aux vendeurs, ainsi que les exigences spécifiques d'accès au marché propres à chaque industrie. Cette approche proactive vise à garantir la transparence et la conformité sur la plateforme, renforçant ainsi la confiance des utilisateurs et assurant une expérience d'achat sûre et satisfaisante pour tous."
+      },
+      "compliance_responsibilities": {
+        "title": "Responsabilités en matière de conformité des produits/services",
+        "description":"Tous les participants à la chaîne d'approvisionnement peuvent être impliqués dans les responsabilités liées à la conformité des produits/services, y compris, mais sans s'y limiter." ,
+        "participants": [
+          "Fabricants",
+          "Négociateurs",
+          "Tradeurs",
+          "Importateurs",
+          "Exportateurs",
+          "Distributeurs",
+          "Grossistes",
+          "Détaillants"
+        ]
+      },"platform_product_compliance":{
+        "title":"plateforme_conformite_produits",
+        "description":"En tant que plateforme B2B, Temacina.com exige un niveau élevé de conformité des produits et services de la part de ses vendeurs. Cette conformité est une exigence légale et réglementaire visant à garantir la qualité, la sécurité et la légalité des produits et services proposés sur la plateforme. Les vendeurs sur Temacina.com doivent donc être attentifs à plusieurs aspects pour assurer la conformité de leurs offres."
+      },"seller_responsibilities_for_product_compliance":{
+        "title":"responsabilite_vendeurs_conformite_produits",
+        "description":"Tout d'abord, les vendeurs doivent s'assurer que les produits ou services qu'ils proposent respectent les lois et les réglementations en vigueur dans leur pays d'origine ainsi que dans les pays où ils seront vendus,que ce soit en Algérie ou dans le pays d'origine de leur entreprise. Cela implique de se familiariser avec les exigences légales et réglementaires spécifiques à chaque marché cible et de s'assurer que les produits ou services sont conformes à ces exigences dans les deux sens."
+      },"product_and_service_qualifications":{
+        "title":"qualifications_produits_et_services",
+        "description":"En outre, les vendeurs doivent également garantir que leurs produits ou services possèdent toutes les qualifications requises pour leur utilisation prévue dans les deux sens de l'échange commercial. Cela peut inclure des certifications de qualité, des licences spécifiques, des autorisations gouvernementales ou toute autre qualification nécessaire pour garantir la légalité et la sécurité des produits ou services dans les deux pays concernés."
+      },"documentation_requirements":{
+        "title":"exigences_documentation",
+        "description":"Les vendeurs doivent être en mesure de fournir à Temacina.com toute information ou document pertinent en cas de besoin, que ce soit dans le sens de l'exportation vers l'Algérie ou de l'importation à partir de l'Algérie. Cela peut inclure des documents de certification, des rapports d'inspection, des fiches techniques ou tout autre document nécessaire pour prouver la conformité des produits ou services dans les deux sens de l'échange commercial."
+      },"platform_policies_and_regulations":{
+        "title":"politiques_et_regles_plateforme",
+        "description":"En tant que vendeur sur Temacina.com, il est essentiel de comprendre et de respecter les politiques et les règles de la plateforme en matière de sécurité et de conformité des produits ou services, dans les deux sens de l'échange commercial. Cela comprend notamment l'interdiction de vendre des produits contrefaits, dangereux ou illégaux, ainsi que le respect des règles de protection des consommateurs et de protection de la vie privée dans les deux pays concernés."
+      },"consequences_of_non_compliance":{
+        "title":"consequences_de_non_conformite",
+        "description":"Le non-respect de ces politiques et règles peut entraîner des sanctions sévères, telles que le retrait des produits ou services de la plateforme, la suspension des opérations sur Temacina.com et même des sanctions légales ou réglementaires de la part des autorités compétentes dans les deux pays concernés.Par conséquent, il est impératif pour les vendeurs de prendre au sérieux les exigences de conformité et des'efforcer de respecter les normes les plus élevées en matière de qualité, de sécurité et de légalité de leurs produits"
+      }
+    }
+  }
+  
