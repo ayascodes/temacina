@@ -169,16 +169,17 @@
       "title": "ONLINE SALES WITH GLOBAL PAYMENT METHODS",
       "description": "After the initial marketing phase, we will launch online sales services to offer even more growth opportunities to our sellers.",
       "online_sales_services": {
-"title":"Online Sales Services",
-      "beniefts": {
-       "1" :"Online Sales Platform: Offer your products directly on our platform with an intuitive and user-friendly interface",
-       "2" :"Order Management: Track and manage orders in real-time, with instant notifications for each new order",
-       "3" :"Online Inventory: Manage inventory with automatic updates to ensure product availability",
-      "4" : "Warranty Service: Offer your customers peace of mind with a warranty on sold products",
-      "5"  :"After-Sales Service: Provide after-sales support to resolve any issues or answer customer questions",
-      "6" : "Dispute Management: An effective system to manage and resolve disputes between sellers and buyers",
-      "7" : "Refund Policy: Ensure a clear and fair refund policy to maintain customer satisfaction"
-        } }
+        "title":"Online Sales Services",
+        "benefits": {
+          "1" :"Online Sales Platform: Offer your products directly on our platform with an intuitive and user-friendly interface",
+          "2" :"Order Management: Track and manage orders in real-time, with instant notifications for each new order",
+          "3" :"Online Inventory: Manage inventory with automatic updates to ensure product availability",
+          "4" : "Warranty Service: Offer your customers peace of mind with a warranty on sold products",
+          "5"  :"After-Sales Service: Provide after-sales support to resolve any issues or answer customer questions",
+          "6" : "Dispute Management: An effective system to manage and resolve disputes between sellers and buyers",
+          "7" : "Refund Policy: Ensure a clear and fair refund policy to maintain customer satisfaction"
+        }
+      }
     },
     "global_payment_methods": {
       "title": "GLOBAL ONLINE PAYMENT METHODS",

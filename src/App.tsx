@@ -12,7 +12,7 @@ import './i18n';
 function App() {
   return (
     <>
-    <ProductCompliancePolicy/>
+    <OurServices/>
     </>
   );
 }

@@ -1,0 +1,115 @@
+/* Basic styling for the Our Services Container */
+.our-services-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Heading styles */
+.our-services-container h1 {
+    font-size: 2em;
+    color: #0056b3;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.our-services-container h2 {
+    font-size: 1.5em;
+    color: #0056b3;
+    margin-top: 1.5em;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.3em;
+}
+
+.our-services-container h3 {
+    font-size: 1.25em;
+    color: #007bff;
+    margin-top: 1.25em;
+}
+
+/* Paragraphs and lists */
+.our-services-container p {
+    margin: 1em 0;
+    text-align: justify;
+}
+
+.our-services-container ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.our-services-container ul li {
+    margin-bottom: 0.5em;
+}
+
+/* Links */
+.our-services-container a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.our-services-container a:hover {
+    text-decoration: underline;
+}
+
+/* Buttons */
+.our-services-container .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.our-services-container .button:hover {
+    background-color: #0056b3;
+}
+
+/* Highlighted sections or important notes */
+.our-services-container .highlight {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-left: 4px solid #007bff;
+    margin: 1em 0;
+    border-radius: 4px;
+}
+
+/* RTL Support */
+[dir="rtl"] .our-services-container {
+    text-align: right;
+}
+
+[dir="rtl"] .our-services-container ul {
+    padding-left: 0;
+    padding-right: 20px; /* Adjust padding for RTL */
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .our-services-container {
+        padding: 15px;
+    }
+
+    .our-services-container h1 {
+        font-size: 1.75em;
+    }
+
+    .our-services-container h2 {
+        font-size: 1.35em;
+    }
+
+    .our-services-container h3 {
+        font-size: 1.15em;
+    }
+}
