@@ -1,0 +1,123 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+.BigTitle{
+    color: #FF561C;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border: 2px solid #FF561C; 
+}
+/* Sidebar styles */
+.sideBar {
+    background-color: #ffffff; 
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-weight: bold;
+    font-size: larger;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    border: 2px solid #FF561C;
+}
+
+.sideBarHeader{
+    color: #FF561C;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    transition: transform 0.1s ease;
+}
+.sideBarHeader:hover {
+    color: #FF561C;
+    transform: scale(1.3);
+    
+  }
+  
+  .sidebarItem {
+    display: flex;
+    align-items: center;
+    color: #333;
+    padding: 10px;
+    transition: background-color 0.1s ease, color 0.1s ease;
+  }
+  .sidebarItem.selected {
+    background-color: #F5F5F5;
+    color: #FF561C;
+    border-radius: 8px;
+}
+
+  
+  .sidebarItem:hover ,.sidebarItem:active{
+    background-color: #F5F5F5;
+    color: #FF561C;
+    border-radius: 8px;
+  }
+  
+  .sidebarItemIcon {
+    margin-right: 20px;
+    transition: transform 0.1s ease;
+  }
+  
+  .sidebarItem:hover .sidebarItemIcon {
+    transform: scale(1.1);
+  }
+  .sidebarItem.selected {
+    background-color: #F5F5F5;
+    color: #FF561C;
+    border-radius: 8px;
+}   
+/* Accordion styles */
+.accordion-header {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.AccordionItem{
+    font-size: 1.2em;
+}
+.accordion-panel {
+    padding: 20px;
+    border-radius: 8px;
+    }
+
+/* Tabs styles */
+.tab-content-box {
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+.liste_item{
+    list-style-type: disc; /* Default bullet points */
+    padding-left: 20px; /* Standard padding for indenting the list */
+    margin: 10px 0; /* Space above and below the list */
+    font-size: 16px; /* Regular font size */
+    line-height: 1.5; /* Comfortable line spacing */
+    color: #000000; /* Standard text color */
+
+}
+/* Image styles */
+.image-placeholder {
+    max-width: 100%;
+    border: 2px solid #f97316; /* orange.500 in Chakra */
+    margin-bottom: 20px;
+}
+
+/* Main content styles */
+.main-content {
+    padding: 40px;
+    background-color: #ffffff; /* white in Chakra */
+}
+
+/* Specific accordion and tab styles */
+.accordion-item-heading {
+    color: #333;
+}
