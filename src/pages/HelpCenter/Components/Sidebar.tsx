@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import {
   List,
   ListItem,
-  ListIcon,
   Box,
   Accordion,
   AccordionItem,
@@ -42,7 +41,7 @@ function Sidebar() {
             </AccordionButton>
           </h2>
           <AccordionPanel pb={4}>
-            <List fontSize="md" spacing={2}> 
+            <List fontSize="md" spacing={4}> 
               <ListItem>
                 <NavLink 
                   to="help_inscription" 

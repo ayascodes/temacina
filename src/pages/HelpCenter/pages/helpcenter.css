@@ -26,6 +26,7 @@ body {
     box-shadow: 2px 0 5px rgba(0,0,0,0.1);
     border-radius: 10px;
     border: 2px solid #FF561C;
+    width: 100%;
 }
 
 .sideBarHeader{
@@ -48,6 +49,8 @@ body {
     color: #333;
     padding: 10px;
     transition: background-color 0.1s ease, color 0.1s ease;
+    word-wrap: break-word; /* Allow long words to break */
+    white-space: normal;   /* Ensure text wraps onto the next line */
   }
   .sidebarItem.selected {
     background-color: #F5F5F5;
@@ -65,6 +68,7 @@ body {
   .sidebarItemIcon {
     margin-right: 20px;
     transition: transform 0.1s ease;
+    min-width: 30px; /* Ensure the icon doesn't cause layout shifts */
   }
   
   .sidebarItem:hover .sidebarItemIcon {
