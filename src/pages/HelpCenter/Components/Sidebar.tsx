@@ -29,7 +29,7 @@ function Sidebar() {
           Centre d'aide
         </NavLink>
       </Box>
-      <Accordion defaultIndex={[0]} allowMultiple>
+      <Accordion allowMultiple>
         <AccordionItem>
           <h2>
             <AccordionButton fontSize="lg" fontWeight="bold">
